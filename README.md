@@ -1,0 +1,2 @@
+# Famath
+Fast math
