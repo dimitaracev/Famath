@@ -16,7 +16,7 @@ namespace Famath
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FamathWindow());
+            Application.Run(new Menu());
         }
     }
 }
