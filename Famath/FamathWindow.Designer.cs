@@ -91,7 +91,7 @@
             this.tryAgain.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.tryAgain.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tryAgain.ForeColor = System.Drawing.Color.White;
-            this.tryAgain.Location = new System.Drawing.Point(325, 274);
+            this.tryAgain.Location = new System.Drawing.Point(330, 273);
             this.tryAgain.Name = "tryAgain";
             this.tryAgain.Size = new System.Drawing.Size(175, 56);
             this.tryAgain.TabIndex = 5;
